@@ -77,6 +77,8 @@ pizza=pizza("abc")
 cp.add_pizza(pizza)
 for pizza in cp.pizzas:
     print(pizza.name)
+    print("a")
+    print("aaa")
 
 
 
