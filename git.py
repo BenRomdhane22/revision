@@ -1,2 +1,8 @@
 print("aaaaaa")
 print("c")
+print("c")
+print("c")
+print("c")
+print("c")
+print("c")
+print("c")
